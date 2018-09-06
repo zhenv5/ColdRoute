@@ -7,6 +7,7 @@ ColdRoute: Effective Routing of Cold Questions in Stack Exchange Sites
 * Journal Track of European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD) 2018
 * [arXiv](https://arxiv.org/abs/1807.00462)
 * [Springer](https://link.springer.com/article/10.1007%2Fs10618-018-0577-7)
+* [Slides for ECML PKDD 2018 Presentation](https://www.dropbox.com/s/upqynsfc4ivpzjc/Slides_ECMLPKDD_2018_ColdRoute.pdf?dl=0)
 
 We are actively working on publishing our codes. 
 
